@@ -1,2 +1,2 @@
 # Sorting-Visualized
-Program that visualized sort algorithms
+Program that visualizes sort algorithms
